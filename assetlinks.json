@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "club.scimence.www.app_second",
+    "sha256_cert_fingerprints":
+    ["6F:07:A3:33:E9:71:AC:8F:A9:2A:22:6E:6C:3F:3E:CA:45:F1:77:C0:9E:21:F0:66:79:22:16:5C:32:0A:24:3F"]
+  }
+}]
